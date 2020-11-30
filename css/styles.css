@@ -96,7 +96,6 @@ li {
 .hero__content-title {
   font-family: "Raleway", sans-serif;
   font-size: 24rem;
-  line-height: 36rem;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -104,7 +103,6 @@ li {
 .hero__content-description {
   text-align: center;
   font-size: 14rem;
-  line-height: 22rem;
   margin: 0 20px 30px;
 }
 
